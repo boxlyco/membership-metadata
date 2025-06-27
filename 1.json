@@ -1,0 +1,9 @@
+{
+  "name": "Basic Membership Pass",
+  "description": "Access to member perks and events.",
+  "image": "https://yourdomain.com/assets/basic.png",
+  "attributes": [
+    { "trait_type": "Tier", "value": "Basic" },
+    { "trait_type": "Access", "value": "Standard" }
+  ]
+}
