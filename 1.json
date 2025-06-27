@@ -1,7 +1,7 @@
 {
   "name": "Basic Membership Pass",
   "description": "Access to member perks and events.",
-  "image": "https://yourdomain.com/assets/basic.png",
+  "image": "https://cdn.shopify.com/s/files/1/0704/1617/1148/files/Vanta-Favicon-Black.png?v=1746736607",
   "attributes": [
     { "trait_type": "Tier", "value": "Basic" },
     { "trait_type": "Access", "value": "Standard" }
